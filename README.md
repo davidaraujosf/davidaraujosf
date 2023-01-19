@@ -1,5 +1,5 @@
 ## Hi, I'm David Araújo! 👨‍💻
-- 💻 Front-End Developer | UI/UX Designer
+- 💻 Front-End Developer | UI/UX Designer at Ikone Global
 - 📖 I'm a Analysis and Systems Development Student from Brazil at <a href="https://www.uninassau.edu.br" target="_blank">UNINASSAU</a>
 - 📋 Here you can find work projects, my college projects and study projects too.
 
